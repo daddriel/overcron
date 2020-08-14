@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.04c51329.css"
   },
   {
-    "revision": "27beae9a1a8cac31374b",
+    "revision": "bbcb39b6b4fd80bcabaa",
     "url": "/css/app.9f5d6548.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/moodle.5a0bcf4f.svg"
   },
   {
-    "revision": "28231efdb17301fd29e292bf932b150d",
+    "revision": "e94c04a3c456285f03761ecc73f07750",
     "url": "/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.570f71c0.js"
   },
   {
-    "revision": "27beae9a1a8cac31374b",
-    "url": "/js/app.d889596f.js"
+    "revision": "bbcb39b6b4fd80bcabaa",
+    "url": "/js/app.bf2d157b.js"
   },
   {
     "revision": "9e1a9d144e0d931edddb",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.48e05ac9093edcb9769b22e845c3fa80.js"
+  "/precache-manifest.2133323faab33434b5b4de8a58489a32.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Overcron"});
